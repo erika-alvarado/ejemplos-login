@@ -1,4 +1,4 @@
-let emailValido = "root@cbtis258.edu.mx";
+  let emailValido = "root@cbtis258.edu.mx";
 let passValido = "admin123";
 
 const chequelogin = (event) =>{
